@@ -1,1 +1,5 @@
-I am now making a change in this file for you to see Linus :) I hope you are having a good day!
+<<<<<<< HEAD
+ I hope you are having a good day!
+=======
+I am now making a change in this file for you to see Miriam! xD
+>>>>>>> a35a91799e3c40f9bc9b812358455e42faa917ef
